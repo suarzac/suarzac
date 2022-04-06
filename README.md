@@ -6,7 +6,7 @@
 ### <div align="center">I'm Zachary, a full-time data engineer 👨‍💻 working remotely through Kforce with HP Inc since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/suarzac/great_expectations)  
+- 🔭 I’m currently working on [Great Expectations](https://github.com/suarzac/great_expectations)  
   
 
 - 🌱 I’m currently learning Terraform and the Great Expectations framework  
