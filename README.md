@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://suarzac.github.io/static/images/memoji-wave.png" align="center" style="width: 100%" />
+<img src="https://suarzac.github.io/static/images/memoji-wave.png" align="center" style="width: 25%" />
 </div>  
   
 
